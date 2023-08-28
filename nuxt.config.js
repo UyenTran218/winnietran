@@ -43,14 +43,13 @@ export default {
   build: {
     transpile: ["vuetify"],
   },
-  
-  runtimeConfig: {
-    public: {
-      baseURL: '/winnietran/'
-    }
-  },
-    app: {
-      baseURL: '/winnietran/'
-    }
-  
+
+  // runtimeConfig: {
+  //   public: {
+  //     baseURL: '/winnietran/'
+  //   }
+  // },
+  //   app: {
+  //     baseURL: '/winnietran/'
+  //   }
 };
