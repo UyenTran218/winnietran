@@ -1,18 +1,18 @@
 <template>
-  <v-card class="my-6" min-width="200px">
+  <v-card class="my-6" max-width="550px">
     <!--Project overview-->
-    <v-carousel hide-delimiters show-arrows="hover" height="300">
-      <v-carousel-item>
-        <v-img :src="imgPath" cover style="filter: grayscale(1);"></v-img>
-      </v-carousel-item>
-      <v-carousel-item>
-        <v-img :src="imgPath1" cover style="filter: grayscale(1);"></v-img>
-      </v-carousel-item>
-      <v-carousel-item>
-        <v-img :src="imgPath2" cover style="filter: grayscale(1);"></v-img>
-      </v-carousel-item>
-    </v-carousel>
-    
+      <v-carousel hide-delimiters show-arrows="hover" height="200px">
+        <v-carousel-item>
+          <v-img :src="imgPath" cover style="filter: grayscale(1);"></v-img>
+        </v-carousel-item>
+        <v-carousel-item>
+          <v-img :src="imgPath1" cover style="filter: grayscale(1);"></v-img>
+        </v-carousel-item>
+        <v-carousel-item>
+          <v-img :src="imgPath2" cover style="filter: grayscale(1);"></v-img>
+        </v-carousel-item>
+      </v-carousel>
+
     <v-card-title class="card-title my-4"> {{ title }} </v-card-title>
     <v-card-subtitle class="my-3"> {{ subtitle }} </v-card-subtitle>
     <v-card-actions>
@@ -59,6 +59,7 @@ export default {
   background-color: #94ada3;
   color: white;
 }
+
 .card-text {
   height: 300px;
 }
