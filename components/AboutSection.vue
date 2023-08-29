@@ -1,5 +1,5 @@
 <template>
-    <v-card color="teal-darken-4" variant="text" class="pa-10" id="about">
+    <v-card variant="text" class="pa-10" id="about">
         <h1 class="ma-12 py-16 section-title" style="font-size: 34px;">About</h1>
         <v-row>
             <!--Profile image-->

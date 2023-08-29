@@ -10,7 +10,7 @@
                     required></v-text-field>
                 <v-textarea density="compact" variant="underlined"  rows="5" name="message" placeholder="Message"
                     required></v-textarea>
-                <v-btn type="submit" class="px-2 mt-10" outlined color="teal-darken-3">
+                <v-btn type="submit" class="px-2 mt-10" color="#94ada3">
                     Send Message
                     <v-icon class="ma-2" right small>mdi-send</v-icon>
                 </v-btn>

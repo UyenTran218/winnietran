@@ -1,7 +1,7 @@
 <template>
     <v-app>
       <NavigationMenu />
-      <v-card style="font-family: Roboto Mono, monospace">
+      <v-card style="font-family: Roboto Mono, monospace" class="pb-12">
         <v-window>
           <v-window-item>
             <v-container fluid>
@@ -10,13 +10,14 @@
           </v-window-item>
         </v-window>
       </v-card>
+      <v-divider color="#94ada3" class="border-opacity-75" thickness="6"></v-divider>
       <Footer />
     </v-app>
   </template>
 <style>
 .section-title{
   text-align: center; 
-  color: black;
+  color: #4a5752;
 }
 * {
   margin: 0;
