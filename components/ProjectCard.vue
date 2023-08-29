@@ -1,8 +1,8 @@
 <template>
-  <v-card class="my-6 mx-2" min-width="300px">
+  <v-card class="my-6 mx-2" min-width="200px">
     <!--Project overview-->
     <v-img :src="imgPath" cover style="filter: grayscale(1);"></v-img>
-    <v-card-title> {{ title }} </v-card-title>
+    <v-card-title class="card-title"> {{ title }} </v-card-title>
     <v-card-subtitle> {{ subtitle }} </v-card-subtitle>
     <v-card-actions>
       <v-btn color="#768a82" variant="tonal" :href="projectUrl" target="_blank"> Github </v-btn>
@@ -38,4 +38,9 @@ export default {
   },
 };
 </script>
+<style>
+.card-title{
+  text-overflow: clip;
+}
+</style>
   

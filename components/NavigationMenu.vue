@@ -7,7 +7,7 @@
 
     <!--App title-->
     <v-app-bar-title class="d-flex w-100 align-center">
-      <strong style="font-size: 40px; color:white">WINNIE</strong>
+      <strong style="font-size: 34px; color:white">WINNIE</strong>
     </v-app-bar-title>
 
     <v-spacer></v-spacer>
