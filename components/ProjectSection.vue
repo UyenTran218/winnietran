@@ -1,5 +1,5 @@
 <template>
-  <v-card variant="text" class="pa-10" id="projects">
+  <v-card variant="text" class="py-10" id="projects">
     <h1 class="ma-12 py-16 section-title" style="font-size: 30px;">Projects</h1>
     <!--Project cards-->
     <v-row>
