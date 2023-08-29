@@ -39,7 +39,8 @@ export default {
 };
 </script>
 <style>
-.card-title{
+.card-title {
+  white-space: normal;
   text-overflow: clip;
 }
 </style>
