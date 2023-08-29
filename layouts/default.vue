@@ -29,6 +29,8 @@ html {
 }
 p {
   text-align: justify;
+  white-space: normal;
+  text-overflow: clip;
 }
 
 </style>
