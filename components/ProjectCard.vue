@@ -1,5 +1,5 @@
 <template>
-  <v-card class="my-6 mx-2" min-width="200px">
+  <v-card class="my-6" min-width="200px">
     <!--Project overview-->
     <v-img :src="imgPath" cover style="filter: grayscale(1);"></v-img>
     <v-card-title class="card-title"> {{ title }} </v-card-title>
@@ -42,6 +42,7 @@ export default {
 .card-title {
   white-space: normal;
   text-overflow: clip;
+  font-size: 18px;
 }
 </style>
   
