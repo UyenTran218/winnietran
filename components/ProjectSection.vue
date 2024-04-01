@@ -13,6 +13,11 @@
           projectUrl="https://github.com/UyenTran218/Restaurant-app"
           description="Streamlined POS (Point-of-Sale) system tailored for a restaurant setting. This web application empowers restaurant staff to easily manage orders, from item selection to billing and print/save functionalities. The application is built with Nuxt.js using TypeScript for type safety, and it incorporates Vuetify’s Material Design for an elegant, yet intuitive, user interface." />
       </v-col>
+      <v-col cols="12" md="6">
+        <ProjectCard imgPath="./showcase31.JPG" imgPath1="./showcase32.JPG" imgPath2="./showcase33.JPG" title="Pizza Restaurant Website" subtitle="ReactJS + Tailwind CSS"
+          projectUrl="https://github.com/UyenTran218/restaurant-web-app"
+          description="Dynamic Pizza Restaurant Website crafted with ReactJS and Tailwind CSS. Users can easily view menu, find location, and more. Modern design for seamless browsing and ordering experience." />
+      </v-col>
     </v-row>
 
   </v-card>
