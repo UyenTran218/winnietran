@@ -9,7 +9,7 @@
             <!--About content-->
             <v-col class="d-flex justify-space-around">
                 <v-sheet min-width="320px">
-                    <p class="about-content">I'm Winnie, a software developer with a specialization in frontend web development.
+                    <p class="about-content">Hello there! I'm Winnie, a software developer with a specialization in frontend web development.
                     Based in Adelaide, South Australia, I thrive on turning complex challenges into simple, scalable
                     solutions.
                     <br />
