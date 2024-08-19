@@ -47,7 +47,7 @@ import ContactForm from './ContactForm.vue';
 export default {
   data: () => ({
     socials: [
-      { name: "linkedin", icon: "mdi-linkedin", url: "https://www.linkedin.com/in/uyen-tran-winnie91/" },
+      { name: "linkedin", icon: "mdi-linkedin", url: "https://www.linkedin.com/in/winnie-ttran/" },
       { name: "twitter", icon: "mdi-twitter", url: "https://twitter.com/kuyen218" },
       { name: "github", icon: "mdi-github", url: "https://github.com/UyenTran218" }
     ],
