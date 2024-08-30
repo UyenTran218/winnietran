@@ -40,10 +40,6 @@ export default {
   modules: [],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
-    transpile: ["vuetify"],
-  },
-
   // runtimeConfig: {
   //   public: {
   //     baseURL: '/winnietran/'
@@ -52,4 +48,9 @@ export default {
   //   app: {
   //     baseURL: '/winnietran/'
   //   }
+  build: {
+    transpile: ["vuetify"],
+  },
+
+  compatibilityDate: "2024-08-30"
 };
