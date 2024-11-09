@@ -52,5 +52,5 @@ export default {
     transpile: ["vuetify"],
   },
 
-  compatibilityDate: "2024-08-30"
+  compatibilityDate: "2024-08-30",
 };

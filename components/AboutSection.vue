@@ -8,8 +8,8 @@
             </v-col>
             <!--About content-->
             <v-col class="d-flex justify-space-around">
-                <v-sheet min-width="320px">
-                    <p class="about-content">Hello there! I'm Winnie, a software developer with a specialization in frontend web development.
+                <v-sheet min-width="320px"><br /><br />
+                    <p class="about-content">Hello there! I'm Winnie, a software engineer with a specialization in web development.
                     Based in Adelaide, South Australia, I thrive on turning complex challenges into simple, scalable
                     solutions.
                     <br />
