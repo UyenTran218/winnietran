@@ -24,10 +24,10 @@
           Modern design for seamless browsing and ordering experience." />
       </v-col>
       <v-col cols="12" md="6">
-        <ProjectCard imgPath="./showcase42.JPG" imgPath1="./showcase43.JPG" imgPath2="./showcase44.JPG" title="Task Center" subtitle="Windows PowerShell"
+        <ProjectCard imgPath="./showcase43.JPG" imgPath1="./showcase42.JPG" imgPath2="./showcase44.JPG" title="Task Center" subtitle="Windows PowerShell"
           projectUrl="TBU"
-          description="The Task Center is a Windows PowerShell application that centralizes and automates manual tasks, significantly enhancing efficiency in my testing processes at GLI. 
-          Key features include automated folder creation, remote file handling, regulatory compliance checks, and game description lookups, reducing manual workload by 30% and improving productivity." />
+          description="The Task Center is a Windows PowerShell application that centralizes and automates manual tasks, significantly enhancing efficiency in testing processes of my side projects. 
+          Key features include automated folder creation and naming, reducing manual workload by 30% and improving productivity by 20%." />
       </v-col>
     </v-row>
 
